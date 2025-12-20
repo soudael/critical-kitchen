@@ -1,25 +1,50 @@
 # 🧑‍🍳 Critical Kitchen
-### Fast-Paced Time and Resource Management Game
+<h4>A frantic 2D pixel-art time-management game where every second counts.</h4>
 
-## 🏷️ About the Game
+### Short pitch
 
-**Critical Kitchen** is a chaotic time and resource management game where the pressure never stops rising.
+Take control of Theo, an eager chef trying to build his culinary empire under constant pressure. Serve hungry customers, fend off pests, respond to chaotic events, and expand your restaurant by hitting milestone goals — no traditional “levels", only escalating challenge and growth.
 
-You start your career as a chef in a humble kitchen with a limited menu.
-There are no traditional "levels" here, only **milestones**.
-To grow your culinary empire, you must hit specific targets to expand your restaurant, upgrade your kitchen equipment, and improve the dining hall.
+### Long description
+Critical Kitchen blends fast-paced time-management with focused, bite-sized action loops. You start slow, in a small kitchen with a tight menu, simple tools, and few customers. As you complete objectives, you unlock new menu items, equipment upgrades, cosmetics, and later the ability to hire and level up staff — but every win raises the heat: more customers, more events, more things to manage. The game keeps the chaos controlled so the challenge feels fair — a lot happening, but nothing messy or visually cluttered.
 
-**Game Loop:**
-- **Service:** Seat customers, take orders, cook, and serve before they lose patience.
-- **Logistics:** Run to the stockroom to fetch ingredients.
-- **Pest Control:** While restocking, you must fend off **rats and moths**. If you take too long, they *will* eat your stock, one by one, reducing your resources.
-- **Repeat:** Bring ingredients back to the line and keep cooking.
+Expect short, intense service shifts where prioritization matters. Do you calm a complaining customer, chase pests from the stockroom, or rush to finish the next order? Your choices define the run.
 
-As the pace becomes critically fast, you'll unlock the ability to hire staff, but can you manage everything while the kitchen burns?
+As the pace picks up, you'll unlock new things that will help you — but can you manage everything while the kitchen burns?
+
+### Features
+
+- Both Casual and Critical game modes.
+- Fast-paced 2D pixel art gameplay — minimal UI, maximum action.
+- Simple controls: Move, Interact, Dash, Swap item.
+- Dynamic milestone system (not levels): hit targets to unlock items and skills, expand the dining hall, and new features.
+- Staff hiring & progression: hire up employees, assign roles, define priorities, and train them to be faster and more reliable.
+- Small but meaningful skill tree that changes gameplay; larger skill possibilities planned for possible future multiplayer.
+- Random in-service events and pest management add tension and meaningful choices.
+- Strong animation focus — lively, polished and smooth pixel animation across the restaurant.
+- Single-player now; multiplayer (co-op, versus, team modes) considered for later updates.
+- Future "Chill Cafe" mode for casual gamers who just want to enjoy the vibes.
+
+#### How a typical session plays
+
+1. Seat and take customer orders.
+2. Grab generic ingredients and use the appropriate appliance or station — cooking animations happen quickly and automatically so you can keep moving.
+3. Serve quickly before customers lose patience.
+4. Run to the stockroom to resupply — while there, ward off rats and moths or risk losing stock.
+5. Deal with random events (angry customers, broken plates, spills).
+6. Repeat and survive the rush until the shift ends.
+
+#### Why “Critical Kitchen”?
+The name reflects the steady rise of pressure: as you progress, the kitchen becomes critically busy. The game rewards quick thinking and prioritization — it’s controlled chaos.
+
+#### Note for players
+- Controls are intentionally minimal to keep the focus on decision-making and movement.
+- The game is designed to scale in difficulty; early runs teach the systems, later runs test your multitasking and leadership.
+- Cosmetic character customization (gender, clothing, colors) available at the start and as the game progresses.
 
 > [!NOTE]
 > 👤 **Author:** Soudael <br>
-> ⚙️ **Made with:** SDL3, Aseprite <br>
+> ⚙️ **Made with:** Unity, Aseprite <br>
 > 💻 **Platforms:** Windows (x64) <br>
 > 🌐 **Languages:** English <br>
 > 🧪 **Status:** Early Development (Pre-Alpha)
