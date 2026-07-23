@@ -43,7 +43,7 @@ The name reflects the steady rise of pressure: as you progress, the kitchen beco
 - Cosmetic character customization (gender, clothing, colors) available at the start and as the game progresses.
 
 > [!NOTE]
-> 👤 **Author:** Soudael <br>
+> 👤 **Author:** Aubefi <br>
 > ⚙️ **Made with:** Unity, Aseprite <br>
 > 💻 **Platforms:** Windows (x64) <br>
 > 🌐 **Languages:** English <br>
