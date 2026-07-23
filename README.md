@@ -72,4 +72,4 @@ please refer to [SECURITY.md](SECURITY.md) and [POLICY.md](POLICY.md).
 
 ## 📬 Contact
 
-- 📧 Email: [contact.soudael@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=contact.soudael@gmail.com&su=Feedback%20Critical%20Kitchen)
+- 📧 Email: [contact.aubefi@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=contact.aubefi@gmail.com&su=Feedback%20Critical%20Kitchen)
